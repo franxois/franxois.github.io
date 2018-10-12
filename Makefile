@@ -1,2 +1,2 @@
 publish:
-	git subtree push --prefix out origin gh-pages
+	git subtree push --prefix out origin master
